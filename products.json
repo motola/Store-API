@@ -61,5 +61,26 @@
         "company":"marcos",
         "rating":2.4,
         "featured":false
+    },
+    {
+        "name": "Kitchen ware",
+        "price": 120,
+        "company":"ikea",
+        "rating":1.4,
+        "featured":true
+    },
+    {
+        "name": "Stool",
+        "price": 200,
+        "company":"liddy",
+        "rating":5,
+        "featured":false
+    },
+    {
+        "name": "Carpet",
+        "price": 200,
+        "company":"marcos",
+        "rating":4.8,
+        "featured":true
     }
 ]
