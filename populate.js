@@ -8,7 +8,7 @@ const products = require('./products.json');
 console.log(products)
 
 const start = async () => {
-    connectDB();
+    await connectDB();
     await Product.deleteMany();
     await Product.create(products);
     console.log("sucess")
