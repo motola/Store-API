@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Wooden Chair",
+        "price": 25,
+        "company":"marcos",
+        "rating":4,
+        "featured":true
+    },
+    {
+        "name": "Dining Table",
+        "price": 125,
+        "company":"liddy",
+        "rating":5,
+        "featured":true
+    },
+    {
+        "name": "Second Wooden Chair",
+        "price": 59,
+        "company":"ikea",
+        "rating":3,
+        "featured":false
+    },
+    {
+        "name": "Wooden Chair",
+        "price": 25,
+        "company":"marcos",
+        "rating":4,
+        "featured":true
+    },
+    {
+        "name": "Wooden Chair",
+        "price": 25,
+        "company":"marcos",
+        "rating":4,
+        "featured":true
+    },
+    {
+        "name": "Albany Section",
+        "price": 100,
+        "company":"ikea",
+        "rating":4,
+        "featured":true
+    },
+    {
+        "name": "Second Dinning Table",
+        "price": 20,
+        "company":"marcos",
+        "rating":2.4,
+        "featured":false
+    },
+    {
+        "name": "Wooden Couch",
+        "price": 165,
+        "company":"liddy",
+        "rating":4.5,
+        "featured":true
+    },
+    {
+        "name": "Rugs and Carpet",
+        "price": 200,
+        "company":"marcos",
+        "rating":2.4,
+        "featured":false
+    }
+]
